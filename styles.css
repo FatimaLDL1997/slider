@@ -196,8 +196,8 @@ Slider
   position: absolute;
   width: 100%;
   height: 100%;
-  background: var(--clr-primary-9);
-  color:black;
+  background: black;
+  color: var(--clr-white);
   display: grid;
   place-items: center;
   transition: all 0.25s ease-in-out;
